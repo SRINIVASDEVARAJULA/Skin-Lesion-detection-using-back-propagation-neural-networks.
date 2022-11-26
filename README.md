@@ -1,0 +1,2 @@
+# Skin-Lesion-detection-using-back-propagation-neural-networks.
+Skin Cancer test images can be detected automatically using back propagation Convolutional neural networks with accuracy. In this project, a computerized skin diagnosis method is introduced. The proposed approach is to measure the skin disease surface and control its evolution. The goals of this technique are to make the dermatologist’s work easy to reduce the measurement-time and to improve the precision of the caregivers’ intervention.
